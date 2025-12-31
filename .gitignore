@@ -1,0 +1,35 @@
+# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ===== Jupyter =====
+.ipynb_checkpoints/
+
+# ===== Virtual Environments =====
+env/
+venv/
+.env/
+.venv/
+nlp_keras/
+
+# ===== OS files =====
+.DS_Store
+Thumbs.db
+
+# ===== VS Code =====
+.vscode/
+
+# ===== TensorFlow / Keras =====
+*.h5
+*.keras
+logs/
+tensorboard/
+
+# ===== Kaggle / Outputs =====
+submission.csv
+
+# ===== Temporary files =====
+*.tmp
+*.log
